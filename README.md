@@ -66,3 +66,36 @@ The project structure is organized with separate folders for models, routes, and
 To build a basic CRUD application using Express.js and MongoDB. This project serves as a foundation for more complex applications and helps you understand the core concepts of building RESTful APIs.
 
 Happy coding! 🎉
+
+Server Started
+
+![image](https://github.com/user-attachments/assets/da5a18cf-615c-4352-bd3d-b1b73681d9b1)
+
+Add New User
+
+![image](https://github.com/user-attachments/assets/bb4ad64b-6ac9-421a-be0b-935770200ebd)
+
+![image](https://github.com/user-attachments/assets/0d664373-b75e-4739-9083-530b330b13c8)
+
+Retrive Users Details 
+
+![image](https://github.com/user-attachments/assets/d67c4d84-23dc-4efc-a2c4-a99d1c3ecad0)
+
+User Not Found 
+
+![image](https://github.com/user-attachments/assets/c332f1b5-cc72-4243-ae74-d806d9505be3)
+
+Update the User 
+
+![image](https://github.com/user-attachments/assets/b9810d5b-34fe-44ec-9377-2073362883cb)
+
+![image](https://github.com/user-attachments/assets/1a195c3a-a9e3-465d-a3f1-7c94275cb662)
+
+Delete the User
+
+![image](https://github.com/user-attachments/assets/59999f76-1cf2-47cc-ac05-19d24606066a)
+
+![image](https://github.com/user-attachments/assets/013c50d3-01d0-4aa6-937e-35986e062866)
+
+![image](https://github.com/user-attachments/assets/2958f41f-2701-473f-af7e-35a78b2b3dca)
+
